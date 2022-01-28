@@ -8,8 +8,8 @@ Visualization of the dataset to understand the relationships and identify possib
 Data cleaning and transformation to address the problems identified. It many cases, step 1 is then repeated to verify that the cleaning and transformation had the desired effect.
 Construction and evaluation of a machine learning models. Visualization of the results will often lead to understanding of further data preparation that is required; going back to 
 
-## step 1.
-In this project, i looked at the following:
+
+## In this project, i looked at the following:
 
 Recode character strings to eliminate characters that will not be processed correctly.
 Find and treat missing values.
